@@ -19,8 +19,12 @@ Arquivo disponível em: https://www.tableau.com/sites/default/files/2021-11/Exem
 ![image](https://github.com/area-41/Tableau/assets/87396846/65a2c622-e421-4630-80ab-0011bfd35274)
 
 
-### Exemplo de Dica de Ferramenta com outra Planilha:
+### Exemplo de Dica de Ferramenta com outra Planilha (taxa de Lucro por Cidade):
 ![image](https://github.com/area-41/Tableau/assets/87396846/b7f16b6f-1a5f-4d7d-9913-11725ccfe414)
+
+
+### Painel com as Planilhas criadas anteriormente:
+![image](https://github.com/area-41/Tableau/assets/87396846/3795540b-61f3-4413-b0fa-23165b87e8dd)
 
 
 Material apresentado neste repositório com propósitos didáticos apenas. Bons estudos!
